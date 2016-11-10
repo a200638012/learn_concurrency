@@ -1,0 +1,11 @@
+*.opensdf
+*.sdf
+ipch/*
+*.obj
+*.pdb
+*.exp
+test_thread/Release/*
+test_thread/Debug/*
+*.pch
+*.suo
+lib/*
