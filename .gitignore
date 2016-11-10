@@ -6,6 +6,7 @@ ipch/*
 *.exp
 test_thread/Release/*
 test_thread/Debug/*
+Debug/*
 *.pch
 *.suo
 lib/*
